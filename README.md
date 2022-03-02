@@ -1,4 +1,4 @@
-# Random Outputs - Experience the Power of True Randomness!
+# Random Outputs
 
 Do you need to randomized list for a project but don't have the time to do it yourself? Do not worry, we have you covered! Our premade random generators with powerful randomizing algorithms will give you true randomness. Whether you are looking for a [random animal generator](https://randomoutputs.com/random-animal-generator), pokemon generator, or something else, we have a wide variety of generators to choose from. And if you don't find what you are looking for, our custom list randomizer can help you.
 
